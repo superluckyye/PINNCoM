@@ -1,10 +1,4 @@
-################
-#
-# Deep Flow Prediction - N. Thuerey, K. Weissenov, H. Mehrotra, N. Mainali, L. Prantl, X. Hu (TUM)
-#
-# CNN setup and data normalization
-#
-################
+
 import numpy as np
 import torch
 import torch.nn as nn

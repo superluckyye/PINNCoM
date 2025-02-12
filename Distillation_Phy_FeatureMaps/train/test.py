@@ -1,11 +1,4 @@
-################
-#
-# Deep Flow Prediction - N. Thuerey, K. Weissenov, H. Mehrotra, N. Mainali, L. Prantl, X. Hu (TUM)
-#
-# Compute errors for a test set and visualize. This script can loop over a range of models in
-# order to compute an averaged evaluation.
-#
-################
+
 
 import os,sys,random,math
 import numpy as np

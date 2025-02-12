@@ -1,10 +1,3 @@
-################
-#
-# Deep Flow Prediction - N. Thuerey, K. Weissenov, H. Mehrotra, N. Mainali, L. Prantl, X. Hu (TUM)
-#
-# Dataset handling
-#
-################
 
 from torch.utils.data import Dataset
 import numpy as np

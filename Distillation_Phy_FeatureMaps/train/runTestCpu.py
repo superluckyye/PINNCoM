@@ -1,12 +1,4 @@
-################
-#
-# Deep Flow Prediction - N. Thuerey, K. Weissenov, L. Prantl, X. Hu (TUM)
-#
-# This file is a copy of runTest.py, which - for convenience - can be run
-# on a CPU. This is convenient for quick testing on non-GPU machines.
-# If you have a GPU, the runTest.py script is strongly recommended instead.
-#
-################
+
 
 import os,sys,random,math
 import numpy as np

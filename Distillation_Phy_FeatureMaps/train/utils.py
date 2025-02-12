@@ -1,10 +1,4 @@
-################
-#
-# Deep Flow Prediction - N. Thuerey, K. Weissenov, H. Mehrotra, N. Mainali, L. Prantl, X. Hu (TUM)
-#
-# Helper functions for image output
-#
-################
+
 
 import math, re, os
 import numpy as np
